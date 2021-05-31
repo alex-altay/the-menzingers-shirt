@@ -1,0 +1,54 @@
+@import "../../styles/variables.less";
+
+
+@cursor-radius: 32px;
+
+@svg-template: "data:image/svg+xml,%3Csvg height='6' width='6' viewBox='0 0 8 8' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='4' cy='4' fill='%s' r='4'/%3E%3C/svg%3E";
+@cursor-color-black: %(@svg-template, escape(@black)); 
+@cursor-color-almost-white: %(@svg-template, escape(@almost-white)); 
+@cursor-color-aimed: %(@svg-template, escape(@aimed)); 
+
+html {
+  cursor: url(@cursor-color-black) 3 3, auto;
+}
+.shirt {
+  cursor: url(@cursor-color-almost-white) 3 3, auto;
+}
+.internal-clickable {
+  cursor: url(@cursor-color-aimed) 3 3, auto;
+}
+
+.cursor {
+  position: absolute;
+  top: -@cursor-radius; // to hide cursor from visible area when mouse initially out of the page (on tab or address line)
+  left: -@cursor-radius;
+  z-index: 2;
+  height: @cursor-radius;
+  width: @cursor-radius;
+  border: 2px solid @grey;
+  border-radius: 50%;
+  pointer-events: none;
+  transition-duration: 200ms;
+  animation-timing-function: ease-out;
+  &_aimed {
+    border: 2px solid @aimed;
+  }
+  &_expanded {
+    animation: clickAnimation .5s forwards;
+  }
+  &_hidden {
+    display: none !important;
+  }
+}
+
+@keyframes clickAnimation {
+  0% {
+    transform: scale(1);
+  } 
+  50% {
+    transform: scale(2);
+  }
+  100% {
+    opacity: 0;
+  }
+}

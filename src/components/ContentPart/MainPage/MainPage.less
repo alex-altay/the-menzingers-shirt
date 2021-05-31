@@ -1,0 +1,23 @@
+.band-logo {
+  cursor: inherit;
+  &__image:hover {
+    animation: clockLogo 0.5s ease-in-out infinite;
+  }
+  @keyframes clockLogo {
+    0% {
+      transform: rotate(2deg);
+    }
+    50% {
+      transform: rotate(-4deg);
+    }
+    100% {
+      transform: rotate(2deg);
+    }
+  }
+}
+
+// *** Mix for positioning *** 
+.story__band-logo {
+  position: relative;
+  left: -8px;
+}

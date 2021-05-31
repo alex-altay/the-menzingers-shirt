@@ -1,0 +1,53 @@
+@import "../../../../styles/variables.less";
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.quote__line {
+  display: flex;
+  flex-direction: row;
+  &:before, &:after {
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid @black;
+    margin: auto;
+  }
+  &:before {
+    margin-right: 15px;
+  }
+  &:after {
+    margin-left: 15px;
+  }
+  &_long {
+    width: 575px;
+    margin-bottom: 5px;
+  }
+  &_short {
+    width: 420px;
+  }
+}
+.quote__text {
+  display: block;
+  text-align: center;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+.quote__mark {
+  position: relative;
+  top: 14px;
+  font-family: 'Coustard', serif;
+  font-size: 56px;
+}
+.quote__button {
+  width: 20px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+
+// *** Mix for positioning *** 
+.story__quote {
+  margin-bottom: 45px;
+}

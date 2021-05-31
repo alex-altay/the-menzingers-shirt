@@ -1,0 +1,28 @@
+export default [
+  {
+    name: 'tooth',
+    songName: 'Bad Things',
+    albumName: 'Rented World',
+    quoteTextEn: 'I’ve been dreaming that my teeth are falling out<br>I’m driving, there’s no steering wheel, no doors, I can’t see out',
+    quoteTextRu: 'Мне снится, что мои зубы выпали<br>Я веду машину без руля и дверей и не могу выбраться / не вижу выхода',
+    story: '<p ref="one" class="paragraph">Песня о тревожности, повторяющихся пытающих снах, паранойе и желании самоубийства. Выпадающие во сне зубы &ndash; один из самых интерпретируемых кросс-культурных образов. О нём писали ещё <a class="link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6168631/" target="_blank">древние&nbsp;греки</a>, а Зигмунд Фрейд расшифровывал его как символ мастурбации, сексуального подавления и страха кастрации</p><p class="paragraph"><a class="link" href="https://en.wikipedia.org/wiki/Recurring_dream" target="_blank">Повторяющиеся&nbsp;сны</a> часто встречаются у людей с пост-травматическим синдромом и депрессией</p><p class="paragraph">В конце герой песни клянется, что в этот раз он застрелится</p>',
+    geniusLink: 'https://genius.com/The-menzingers-bad-things-lyrics',
+    appleMusicLink: 'https://music.apple.com/ru/album/bad-things/1485059910?at=1000lHKX&i=1485059913',
+    spotifyLink: 'https://open.spotify.com/track/3a4GRNSUtzBhUwrj2ggJnf',
+    youtubeMusicLink: 'https://music.youtube.com/watch?v=t9NOJ9sLquM',
+    yandexMusicLink: 'https://music.yandex.ru/track/17213564',
+  },
+  {
+    name: 'rodent',
+    songName: 'Rodent',
+    albumName: 'Rented World',
+    quoteTextEn: 'Me and the rodent in the wall<br>have more in common after all',
+    quoteTextRu: 'В конце концов, у нас с грызуном в стене<br>есть много общего',
+    story: '<p class="paragraph">О ненависти к настоящему себе, тоске по прошлому, боли от потери и&nbsp;превращении из чего-то прекрасного во что-то прячущееся и&nbsp;презираемое. Одна из моих любимых песен с грустным прекрасным текстом</p><p class="paragraph">I’ve tried running, I’ve tried hiding. I’ve tried everything but dying</p><p class="paragraph">Лучше не скажешь</p>',
+    geniusLink: 'https://genius.com/The-menzingers-rodent-lyrics',
+    appleMusicLink: 'https://music.apple.com/ru/album/rodent/1485059910?i=1485059914',
+    spotifyLink: 'https://open.spotify.com/track/2itjFgb4YLCTDRAvpvT1Ak',
+    youtubeMusicLink: 'https://music.youtube.com/watch?v=joE_49EINVg',
+    yandexMusicLink: 'https://music.yandex.ru/album/1895261/track/17213557',
+  },
+];
