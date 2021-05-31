@@ -46,6 +46,20 @@
   font-weight: 700;
 }
 
+// *** Animation for transition between en & ru ***
+.quote-leave-active {
+  animation: quote-fade 0.3s ease-out;
+}
+
+@keyframes quote-fade {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
 
 // *** Mix for positioning *** 
 .story__quote {
