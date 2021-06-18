@@ -46,9 +46,6 @@ export default {
   created() {
     this.prepareData(this.activeStory);
   },
-  mounted() {
-    console.log(this.$el);
-  },
   props: ['activeStory'],
   components: {
     'story-title': StoryTitle,

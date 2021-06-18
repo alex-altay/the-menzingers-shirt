@@ -30,9 +30,10 @@
 }
 .quote__text {
   display: block;
+  margin-bottom: 20px;
   text-align: center;
   line-height: normal;
-  margin-bottom: 20px;
+  letter-spacing: 0.2px;
 }
 .quote__mark {
   position: relative;
@@ -46,20 +47,10 @@
   font-weight: 700;
 }
 
-// *** Animation for transition between en & ru ***
-.quote-leave-active {
-  animation: quote-fade 0.3s ease-out;
+// *** Animation JS ***
+.char {
+  display: inline-block;
 }
-
-@keyframes quote-fade {
-  0% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-
 
 // *** Mix for positioning *** 
 .story__quote {
