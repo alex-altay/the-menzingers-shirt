@@ -1,3 +1,13 @@
+.left-border-hack {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 100vh;
+  z-index: 1;
+  background-color: white;
+}
 .background {
   /* Set up positioning */
   position: fixed;
@@ -10,4 +20,18 @@
   /* Image outline */
   outline: 20px solid white;
   outline-offset: -20px;
+}
+
+@media (max-width: 1440px) {
+  .left-border-hack {
+    display: block;
+  }
+  .background {
+    left: -150px;
+  }
+}
+@media (max-width: 1280px) {
+  .background {
+    left: -70px;
+  }
 }

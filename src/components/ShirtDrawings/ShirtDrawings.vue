@@ -1,4 +1,5 @@
 <template>
+  <div class="left-border-hack"></div>
   <img class="background" src="../../assets/bg-crop.png" usemap="#drawings">
   <map name="drawings">
     <area

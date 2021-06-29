@@ -1,9 +1,15 @@
 body {
-  display: flex;
-  justify-content: right;
-  overflow: hidden; // hide scrollbars on mouse leaving
+  min-width: 1440px;
+  @media (min-height: 768px) { // TODO Make mobile adaptive
+    overflow-y: hidden;
+  }
+  @media (min-width: 1440px) {
+    overflow-x: hidden;
+  }
 }
 
 #app {
+  display: flex;
+  justify-content: flex-end;
   height: 100vh;
 }
