@@ -1,0 +1,11 @@
+{
+    "name": "The Menzingers Shirt - Stories From Drawings",
+    "short_name": "The Menzingers Shirt",
+    "icons": [{
+        "src": "media/favicon/google-touch-icon.png",
+        "sizes": "512x512"
+    }],
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "fullscreen"
+}
