@@ -1,44 +1,22 @@
-@import "../../../styles/variables.less";
-
 .title {
-  position: relative;
-  width: 600px;
-  font-family: 'Oswald', sans-serif;
-  text-transform: uppercase;
-  text-align: center;
-  &__the {
-    transform: rotate(-90deg) scale(1,0.7);
-    transform-origin: 0 0;
-    position: absolute;
-    top: 117px;
-    left: 0px;
-    font-size: 71px;
-    line-height: 46px;
-    color: @black;
+  width: 575px;
+  height: 188px;
+  background-size: 800px auto;
+  background-image: url(../../../assets/sprite.svg);
+  background-position: 0% 0%;
+}
+
+@media (max-width: 1440px) {
+  .title {
+    width: 400px;
+    height: 135px;
+    background-size: 557px auto;
   }
-  &__line {
-    display: inline-block;
-    position: relative;
-    font-size: 120px;
-    letter-spacing: -6px;
-    color:grey;
-    background-color: @black;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-image: radial-gradient(@light-grey 1.5px, transparent 1.5px), radial-gradient(@grey 1.5px, transparent 1.5px);
-    background-size: 30px 30px;
-    background-position: 0 0, 15px 15px;
-    &_first {
-      left: 8px;
-    }
-    &_second {
-      font-size: 80px;
-      letter-spacing: -4px;
-      left: -25px;
-      background-position: 0 0, 10px 15px;
-    }
-    &_without-stretching {
-      letter-spacing: 0;
-    }
+}
+@media (max-width: 600px) {
+  .title {
+    width: 300px;
+    height: 102px;
+    background-size: 417px auto;
   }
 }

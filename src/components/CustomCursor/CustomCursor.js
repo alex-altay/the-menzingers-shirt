@@ -3,8 +3,8 @@ export default {
   data() {
     return {
       styleObject: {
-        top: '-32px',
-        left: '-32px',
+        top: '-52px',
+        left: '-52px',
       },
     };
   },
@@ -22,8 +22,19 @@ export default {
   },
   mounted() {
     const body = document.querySelector('body');
-    body.addEventListener('mousemove', this.moveCursor);
-    body.addEventListener('mouseenter', this.showCursor);
-    body.addEventListener('mouseleave', this.hideCursor);
+
+    const addCustomCursorMoving = () => {
+      if (!('ontouchstart' in window) && window.innerWidth > 768) {
+        body.addEventListener('mousemove', this.moveCursor);
+        body.addEventListener('mouseenter', this.showCursor);
+        body.addEventListener('mouseleave', this.hideCursor);
+      }
+    };
+
+    // Only add custom cursor when we have a mouse and when it is not a touch screen
+    body.addEventListener('mousemove', function initCustomCursor() {
+      addCustomCursorMoving();
+      body.removeEventListener('mousemove', initCustomCursor);
+    });
   },
 };

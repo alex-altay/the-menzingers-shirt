@@ -9,6 +9,12 @@ const router = createRouter({
     { path: '/', name: 'main', component: MainPage },
     { path: '/:activeStory', component: SongStory, props: true },
   ],
+  scrollBehavior() {
+    return {
+      el: 'body',
+      behavior: 'smooth',
+    };
+  },
 });
 
 router.afterEach((to) => {

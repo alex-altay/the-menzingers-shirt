@@ -1,6 +1,6 @@
 <template>
   <div class="quote story__quote">
-    <p class="quote__line quote__line_long"><span class="quote__mark">"</span></p>
+    <p class="quote__line quote__line_long"><span class="quote__mark"></span></p>
     <transition
       @before-enter="beforeEnter"
       @enter="enter"

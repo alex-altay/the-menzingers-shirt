@@ -2,8 +2,10 @@
 
 .services {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
+  row-gap: 15px;
 }
 
 .service {
@@ -17,43 +19,43 @@
 
 .service__image {
   height: 50px;
-  width: 35px;
+  width: 38px;
   margin-bottom: 10px;
-  // background-image: url(/media/icons/streaming.png);
-  background-image: url(../../../../assets/icons/streaming.png);
+  background-size: 800px auto;
+  background-image: url(../../../../assets/sprite.svg);
   &_genius {
-    background-position: 0 0;  
+    background-position: -600px 0;  
   }
   &_apple {
-    background-position: -40px 0;  
+    background-position: -640px 0;  
   }
   &_spotify {
-    background-position: -80px 0;   
+    background-position: -680px 0;   
   }
   &_youtube {
-    background-position: -120px 0; 
+    background-position: -720px 0; 
   }
   &_yandex {
-    background-position: -160px 0;
+    background-position: -760px 0;
   }
 }
 
 .service:hover {
   .service__image {
     &_genius {
-      background-position: 0 -50px;
+      background-position: -600px -50px;
     }
     &_apple {
-      background-position: -40px -50px;
+      background-position: -640px -50px;
     }
     &_spotify {
-      background-position: -80px -50px;
+      background-position: -680px -50px;
     }
     &_youtube {
-      background-position: -120px -50px;
+      background-position: -720px -50px;
     }
     &_yandex {
-      background-position: -160px -50px;    
+      background-position: -760px -50px;    
     }   
   }
 }
