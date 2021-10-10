@@ -26,7 +26,6 @@ export default {
         this.albumName = songStory.albumName;
         this.quoteTextEn = songStory.quoteTextEn;
         this.quoteTextRu = songStory.quoteTextRu;
-        // TODO Сделай кастомный компонент с setup/render, оборачивать ссылки в <link-wrapper>
         this.story = songStory.story;
         this.geniusLink = songStory.geniusLink;
         this.appleMusicLink = songStory.appleMusicLink;
@@ -47,6 +46,7 @@ export default {
     this.prepareData(this.activeStory);
   },
   props: ['activeStory'],
+  inject: ['linkHoverHandler'],
   components: {
     'story-title': StoryTitle,
     'story-quote': StoryQuote,

@@ -26,12 +26,17 @@ export default {
     toggleCursorVisibility() {
       this.cursorState.cursor_hidden = !this.cursorState.cursor_hidden;
     },
+    linkHoverHandler(e) {
+      if (e.target.className === 'link') {
+        this.toggleCursorVisibility();
+      }
+    },
   },
   provide() {
     return {
       changeCursorColor: this.changeCursorColor,
       animateClick: this.animateClick,
-      toggleCursorVisibility: this.toggleCursorVisibility,
+      linkHoverHandler: this.linkHoverHandler,
     };
   },
   name: 'App',

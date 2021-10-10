@@ -2,7 +2,10 @@
   <div class="story">
     <story-title :songName="songName" :albumName="albumName"></story-title>
     <story-quote :quoteTextEn="quoteTextEn" :quoteTextRu="quoteTextRu"></story-quote>
-    <div class="story-text story__story-text" v-html="story"></div>
+    <div class="story-text story__story-text"
+      v-html="story"
+      @mouseover="linkHoverHandler"
+      @mouseout="linkHoverHandler"></div>
     <streaming-links
       :geniusLink="geniusLink"
       :appleMusicLink="appleMusicLink"
