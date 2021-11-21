@@ -18,7 +18,7 @@
         <div class="service__image service__image_youtube"></div>
         <p class="service__name">YouTube Music</p>
       </a>
-      <a class="service" :href="yandexMusicLink" target="_blank">
+      <a v-if="yandexMusicLink" class="service" :href="yandexMusicLink" target="_blank">
         <div class="service__image service__image_yandex"></div>
         <p class="service__name">Яндекс Музыка</p>
       </a>

@@ -8,7 +8,7 @@
         Там куча другого-всякого, активно рекомендую</p>
       <p class="paragraph paragraph_long-margin"><span v-if="isSmallScreen">Этот сайт работает на смартфонах и планшетах, но лучше смотреть его с экрана компьютера. </span>
         Мнения, проклятия, восторги или предложения можно писать
-          <a class="link" href="https://vk.com/trutanov.alex" target="_blank">в&nbsp;вк</a>
+          <a class="link" href="https://vk.com/trutanov.alex" target="_blank">в&nbsp;вк</a> или&nbsp;<a class="link" href="https://t.me/altayna" target="_blank">телеграм</a>
       </p>
       <p class="paragraph paragraph_long-margin">Официальный сайт The Menzingers
         <a class="link" href="https://themenzingers.com/" target="_blank">здесь</a></p>
