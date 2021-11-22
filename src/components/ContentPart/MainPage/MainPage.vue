@@ -7,8 +7,7 @@
         <a class="link" href="https://www.instagram.com/craighorky/" target="_blank">инстаграм</a>.
         Там куча другого-всякого, активно рекомендую</p>
       <p class="paragraph paragraph_long-margin"><span v-if="isSmallScreen">Этот сайт работает на смартфонах и планшетах, но лучше смотреть его с экрана компьютера. </span>
-        Мнения, проклятия, восторги или предложения можно писать
-          <a class="link" href="https://vk.com/trutanov.alex" target="_blank">в&nbsp;вк</a> или&nbsp;<a class="link" href="https://t.me/altayna" target="_blank">телеграм</a>
+        Мнения, проклятия, восторги или предложения можно писать в&nbsp;<a class="link" href="https://t.me/altayna" target="_blank">телеграм</a>&nbsp;или <a class="link" href="https://vk.com/trutanov.alex" target="_blank">вк</a>
       </p>
       <p class="paragraph paragraph_long-margin">Официальный сайт The Menzingers
         <a class="link" href="https://themenzingers.com/" target="_blank">здесь</a></p>
