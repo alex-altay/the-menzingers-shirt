@@ -27,8 +27,15 @@ export default {
       this.cursorState.cursor_hidden = !this.cursorState.cursor_hidden;
     },
     linkHoverHandler(e) {
-      if (e.target.className === 'link') {
+      if (e.target.classList.contains('link')) {
         this.toggleCursorVisibility();
+      }
+    },
+    internalLinksClickHandler(e) {
+      if (e.target.classList.contains('link_internal')) {
+        const { page } = e.target.dataset;
+        this.toggleCursorVisibility();
+        this.$router.push(page);
       }
     },
   },
@@ -37,6 +44,7 @@ export default {
       changeCursorColor: this.changeCursorColor,
       animateClick: this.animateClick,
       linkHoverHandler: this.linkHoverHandler,
+      internalLinksClickHandler: this.internalLinksClickHandler,
     };
   },
   name: 'App',

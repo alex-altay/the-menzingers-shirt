@@ -5,7 +5,8 @@
     <div class="story-text story__story-text"
       v-html="story"
       @mouseover="linkHoverHandler"
-      @mouseout="linkHoverHandler"></div>
+      @mouseout="linkHoverHandler"
+      @click="internalLinksClickHandler"></div>
     <streaming-links
       :geniusLink="geniusLink"
       :appleMusicLink="appleMusicLink"

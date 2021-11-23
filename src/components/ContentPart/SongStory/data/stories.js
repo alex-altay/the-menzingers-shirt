@@ -67,7 +67,7 @@ export default [
     quoteTextRu: 'Мы с Кейси<br>Раньше напивались перед тем как мыть посуду<br>Оу, каждый вечер',
     story: `
     <p class="paragraph">Случай, когда одна песня рождается из другой — песни Дэна Зезески из группы <a class="link" href="https://open.spotify.com/artist/6i2E4F2ZjzA9hssYQOrlKI" target="_blank">Beako</a>, друга The Menzingers.
-    Парни тусили на репетиционной точке в <a class="link" href="/key">Sun Hotel</a>, Дэн играл на гитаре и пел как раз эту строчку. 
+    Парни тусили на репетиционной точке в <a class="link link_internal" data-page="key">Sun Hotel</a>, Дэн играл на гитаре и пел как раз эту строчку. 
     Грег попросил разрешения использовать фразу для написания собственной версии, потому что "до сих пор это самая прекрасная песня, что он слышал".</p>
     <p class="paragraph">Сама песня проста, она о потерянной любви и воспоминаниях. 
     По&nbsp;мотивам альбома и любви Грега и вымышленной девушки Кейси один парень даже написал сценарий <a class="link" href="https://learninglovesongs.com/2017/01/30/13017/" target="_blank">"О&nbsp;невозможном&nbsp;будущем"</a></p>`,
@@ -101,7 +101,7 @@ export default [
     quoteTextEn: 'In a cloud full of nicotine<br>In a teenage memory',
     quoteTextRu: 'В никотиновых облаках<br>В памяти подростка',
     story: `
-    <p class="paragraph">В песнях The Menzingers нет упоминаний спичек, но есть пара пожаров, бесконечные сигареты, дым и никотин. Так много, что в фан-сообществах в интернетах гуляет шутка, в которой друг группы закурил сигарету, Том и Грег озарённо переглянулись и написали об этом 32 песни</p>
+    <p class="paragraph">В песнях The Menzingers нет упоминаний спичек, но есть пара пожаров, бесконечные сигареты, дым и никотин. Так много, что в фан-сообществах в&nbsp;интернетах гуляет шутка, в которой друг группы закурил сигарету, Том и&nbsp;Грег озарённо переглянулись и написали об этом 32 песни</p>
     <p class="paragraph">Вариантом для этой картинки мог бы стать <a class="link" href="https://www.youtube.com/watch?v=hNcSusn2hmQ" target="_blank">кавер</a> 
     на <a class="link" href="https://www.youtube.com/watch?v=eFTLKWw542g" target="_blank">песню</a> Билли Джоэла — We Didn't Start The Fire, 
     но релиз альбома с каверами состоялся на месяц позже чем афишу, которую использовали для рисунка на футболке, нарисовали.
@@ -153,7 +153,7 @@ export default [
     quoteTextRu: 'А когда-то я хранил твои слова в своем сердце<br>Защищая каждое из них ножом',
     story: `
     <p class="paragraph">Очередная песня о переживаемом расставании. Когда алкоголь перестает помогать, герой копается в прошлом — это выражено через метафору леса, где он лезет руками в землю, пытаясь в грязи найти то, что навсегда потеряно. Корни проблем? Что-то спрятанное раньше? 
-    В тексте этого нет, можно интерпретировать его <a class="link" href="/tv">так&nbsp;как&nbsp;близко&nbsp;слушателю</a></p>
+    В тексте этого нет, можно интерпретировать его <a class="link link_internal" data-page="tv">так&nbsp;как&nbsp;близко&nbsp;слушателю</a></p>
     <p class="paragraph">Название песни повторяется в куплете: герой не может сказать кружится голова или это кружится земля под ногами. Отношения разрушены полностью: ложь, взаимное отвращения и обвинения друг друга, никто не готов признать вину</p>`,
     geniusLink: 'https://genius.com/The-menzingers-i-cant-seem-to-tell-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/i-cant-seem-to-tell/1485053153?i=1485053172',
@@ -188,7 +188,7 @@ export default [
     <p class="paragraph">Другая игра со смыслом это название трека — "Мексиканские гитары", как память о недорогих инструментах, 
     на которых герои играли вместе когда-то давно до известности. Название рифмуется со строчкой, где рассказчик спрашивает какая дорога привела бы его в Мексику? 
     Это метафора смерти, вопрос — отсылка к Дину Мориарти, персонажу романа <a class="link" href="https://ru.wikipedia.org/wiki/%D0%92_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5" target="_blank">"В&nbsp;дороге"</a> Джека Керуака, впоследствии умершего там.
-    Дин и Сал, герои книги, также упоминаются и в <a class="link" href="/matches">другой&nbsp;песне</a> с этой футболки. Запутанная история, да.</p>`,
+    Дин и Сал, герои книги, также упоминаются и в <a class="link link_internal" data-page="matches">другой&nbsp;песне</a> с этой футболки. Запутанная история, да.</p>`,
     geniusLink: 'https://genius.com/The-menzingers-mexican-guitars-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/mexican-guitars/1485053153?i=1485053168',
     spotifyLink: 'https://open.spotify.com/track/3n9EHj6IoiwhiAjuD2vUBV?si=32766716fd684568',
@@ -205,7 +205,7 @@ export default [
     <p class="paragraph"><a class="link" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BC%D0%BC%D0%B0%D0%B6_(%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" target="_blank">Оммаж</a> 
     песни <a class="link" href="https://www.youtube.com/watch?v=Xk7DOe5EGgM" target="_blank">Chelsea&nbsp;Hotel&nbsp;№2</a> Леонарда Коэна</p>
     <p class="paragraph">Изначально в демо-версии кроме названия и реальных мест, песни Коэна и The Menzingers объединял и общий сюжет. Каждая из них была о сексе и несложившейся любви в этом отеле. В каждой из них у героев нет денег, а возлюбленной героя он не нужен. Каждая заканчивалась враньём героя, что он вообще не вспоминает о ней</p>
-    <p class="paragraph">Но это демо, а вот что получилось <a class="link" href="/key-details">в&nbsp;итоге</a></p>`,
+    <p class="paragraph">Но это демо, а вот что получилось <a class="link link_internal" data-page="key-details">в&nbsp;итоге</a></p>`,
     geniusLink: 'https://genius.com/The-menzingers-sun-hotel-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/sun-hotel/1485053153?i=1485053166',
     spotifyLink: 'https://open.spotify.com/track/1rWGQYboozi8H7scG68dQR?si=5861fa92a13047ef',
@@ -254,7 +254,7 @@ export default [
     quoteTextEn: 'We took rides in your American muscle car<br>I felt American, we shared our smokes<br>I held the wheel while you drank and drove<br>Our plans were miserable',
     quoteTextRu: 'Мы катались на твоём маслкаре<br>Курили одну на двоих и я чувствовал себя Американцем<br>Придерживал руль, когда ты водил пьяным<br>Наши планы были ничтожными',
     story: `
-    <p class="paragraph">Грег Барнетт говорит, что название песни и альбома означает, то что вы сами хотите. Фраза взята из Лолиты Набокова, его любимого писателя и на русском звучит так: "Я опять рыдал, пьянея от невозможного прошлого"</p>
+    <p class="paragraph">Грег Барнетт говорит, что название песни и альбома означает <nobr>то, что вы сами</nobr> хотите. Фраза взята из Лолиты Набокова, его любимого писателя, и на русском звучит так: "Я опять рыдал, пьянея от невозможного прошлого"</p>
     <p class="paragraph">Объясняя настроение песни и альбома говорят о ностальгии, потерянной Америке, депрессивных городах <a class="link" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B0%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank">Ржавого&nbsp;пояса</a>,
     надеждах на счастливую жизнь, которые, как ты знаешь, никогда не сбудутся. Также как <a class="link" href="https://ru.wikipedia.org/wiki/Muscle_car" target="_blank">маслкары</a> — часть ржавеющего прошлого, которое уже никогда не повторится </p>`,
     geniusLink: 'https://genius.com/The-menzingers-on-the-impossible-past-lyrics',

@@ -46,7 +46,7 @@ export default {
     this.prepareData(this.activeStory);
   },
   props: ['activeStory'],
-  inject: ['linkHoverHandler'],
+  inject: ['linkHoverHandler', 'internalLinksClickHandler'],
   components: {
     'story-title': StoryTitle,
     'story-quote': StoryQuote,
