@@ -66,9 +66,9 @@ export default [
     quoteTextEn: 'Me and Casey<br>We used to get drunk before we did the dishes<br>Oh, every evening',
     quoteTextRu: 'Мы с Кейси<br>Раньше напивались перед тем как мыть посуду<br>Оу, каждый вечер',
     story: `
-    <p class="paragraph">Случай, когда одна песня рождается из другой — песни Дэна Зезески из группы <a class="link" href="https://open.spotify.com/artist/6i2E4F2ZjzA9hssYQOrlKI" target="_blank">Beako</a>, друга The Menzingers.
+    <p class="paragraph">Случай, когда одна песня рождается из другой — песни Дэна Зезески из&nbsp;группы <a class="link" href="https://open.spotify.com/artist/6i2E4F2ZjzA9hssYQOrlKI" target="_blank">Beako</a>, друга The Menzingers.
     Парни тусили на репетиционной точке в <a class="link link_internal" data-page="key">Sun Hotel</a>, Дэн играл на гитаре и пел как раз эту строчку. 
-    Грег попросил разрешения использовать фразу для написания собственной версии, потому что "до сих пор это самая прекрасная песня, что он слышал".</p>
+    Грег попросил разрешения использовать фразу для написания собственной версии, потому что "до сих пор это самая прекрасная песня, что&nbsp;я&nbsp;слышал".</p>
     <p class="paragraph">Сама песня проста, она о потерянной любви и воспоминаниях. 
     По&nbsp;мотивам альбома и любви Грега и вымышленной девушки Кейси один парень даже написал сценарий <a class="link" href="https://learninglovesongs.com/2017/01/30/13017/" target="_blank">"О&nbsp;невозможном&nbsp;будущем"</a></p>`,
     geniusLink: 'https://genius.com/The-menzingers-casey-lyrics',
@@ -184,11 +184,11 @@ export default [
     quoteTextEn: 'With bad tattoos of all the bands you loved in high school<br>The ones you said that I had to listen to all the time',
     quoteTextRu: 'C кривыми татуировками групп, любимых тобой в школе<br>Тех, что всё время советовал мне послушать',
     story: `
-    <p class="paragraph">Голова пантеры это сюжет для традиционной татуировки, а сама песня о потере друга. Сотни каналов телевизора, на которых нечего смотреть, из первого куплета — метафора толпы людей рядом, ни один из которых его не заменит. </p>
+    <p class="paragraph">Голова пантеры это сюжет для традиционной татуировки, а сама песня о&nbsp;потере друга. Сотни каналов телевизора, на которых нечего смотреть, из&nbsp;первого куплета — метафора толпы людей рядом, ни один из которых его не заменит. </p>
     <p class="paragraph">Другая игра со смыслом это название трека — "Мексиканские гитары", как память о недорогих инструментах, 
     на которых герои играли вместе когда-то давно до известности. Название рифмуется со строчкой, где рассказчик спрашивает какая дорога привела бы его в Мексику? 
     Это метафора смерти, вопрос — отсылка к Дину Мориарти, персонажу романа <a class="link" href="https://ru.wikipedia.org/wiki/%D0%92_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5" target="_blank">"В&nbsp;дороге"</a> Джека Керуака, впоследствии умершего там.
-    Дин и Сал, герои книги, также упоминаются и в <a class="link link_internal" data-page="matches">другой&nbsp;песне</a> с этой футболки. Запутанная история, да.</p>`,
+    Дин и Сал, герои книги упоминаются и в <a class="link link_internal" data-page="matches">другой&nbsp;песне</a> с этой футболки. Запутанная история, да.</p>`,
     geniusLink: 'https://genius.com/The-menzingers-mexican-guitars-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/mexican-guitars/1485053153?i=1485053168',
     spotifyLink: 'https://open.spotify.com/track/3n9EHj6IoiwhiAjuD2vUBV?si=32766716fd684568',
@@ -200,11 +200,11 @@ export default [
     songName: 'Sun Hotel',
     albumName: 'On The Impossible Past',
     quoteTextEn: 'I remember you well at the Sun Hotel<br>Where we were waiting impatiently<br>For a decent night\'s sleep',
-    quoteTextRu: 'Я хорошо помню тебя в Отеле «Солнце»<br>Где мы нетерпливо ждали<br>Возможности нормально выспаться',
+    quoteTextRu: 'Я хорошо помню тебя в отеле «Солнце»<br>Где мы нетерпливо ждали<br>Возможности нормально выспаться',
     story: `
     <p class="paragraph"><a class="link" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BC%D0%BC%D0%B0%D0%B6_(%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" target="_blank">Оммаж</a> 
     песни <a class="link" href="https://www.youtube.com/watch?v=Xk7DOe5EGgM" target="_blank">Chelsea&nbsp;Hotel&nbsp;№2</a> Леонарда Коэна</p>
-    <p class="paragraph">Изначально в демо-версии кроме названия и реальных мест, песни Коэна и The Menzingers объединял и общий сюжет. Каждая из них была о сексе и несложившейся любви в этом отеле. В каждой из них у героев нет денег, а возлюбленной героя он не нужен. Каждая заканчивалась враньём героя, что он вообще не вспоминает о ней</p>
+    <p class="paragraph">Изначально в демо-версии кроме названия и реальных мест, песни Коэна и The Menzingers объединял и общий сюжет. Каждая из них была о сексе и&nbsp;несложившейся любви в этом отеле. В каждой из них у героев нет денег, а возлюбленной героя он не нужен. Каждая заканчивалась враньём героя, что он вообще не вспоминает о ней</p>
     <p class="paragraph">Но это демо, а вот что получилось <a class="link link_internal" data-page="key-details">в&nbsp;итоге</a></p>`,
     geniusLink: 'https://genius.com/The-menzingers-sun-hotel-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/sun-hotel/1485053153?i=1485053166',
@@ -217,14 +217,14 @@ export default [
     songName: 'Sun Hotel',
     albumName: 'On The Impossible Past',
     quoteTextEn: 'I remember you well at the Sun Hotel<br>Where we were waiting impatiently<br>For a decent night\'s sleep',
-    quoteTextRu: 'Я хорошо помню тебя в Отеле «Солнце»<br>Где мы нетерпливо ждали<br>Возможности нормально выспаться',
+    quoteTextRu: 'Я хорошо помню тебя в отеле «Солнце»<br>Где мы нетерпливо ждали<br>Возможности нормально выспаться',
     story: `
-    <p class="paragraph">В альбомной версии песни этих тем нет, в ней это воспоминание связано с непроходящим чувством вины, страха и стыда. Он уже тогда знает, что бросит её и она бросит его и от этого уже тогда чувствует одиночество и безнадежность</p>
+    <p class="paragraph">В альбомной версии песни этих тем нет, в ней это воспоминание связано с&nbsp;непроходящим чувством вины, страха и стыда. Он уже тогда знает, что бросит её и она бросит его и от этого уже тогда чувствует одиночество и&nbsp;безнадежность</p>
     <p class="paragraph">
     Другое отличие от богемного отеля Chelsea с его знаменитыми обитателями: Керуак, Буковски, Артур Кларк, 
     Генри Миллер, Дженис Джоплин, о которой поёт в своей песне Коэн, в том, что 
     Sun Hotel — настоящая дыра, где у группы было помещение для репетиций. 
-    Отзыв об этом месте, <a class="link" href="https://www.fadingad.com/fadingadblog/2015/08/21/wink-the-sassy-one-canada-dry-sun-hotel-south-scranton-pa/" target="_blank">закрытом</a> в 2015 за продажу наркотиков: "Вы можете насрать прямо на пол и всем на это будет насрать"
+    Отзыв об&nbsp;этом месте, <a class="link" href="https://www.fadingad.com/fadingadblog/2015/08/21/wink-the-sassy-one-canada-dry-sun-hotel-south-scranton-pa/" target="_blank">закрытом</a> в 2015 за продажу наркотиков: "Вы можете насрать прямо на пол и всем на это будет насрать"
     </p>`,
     geniusLink: 'https://genius.com/The-menzingers-sun-hotel-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/sun-hotel/1485053153?i=1485053166',
@@ -252,7 +252,7 @@ export default [
     songName: 'On The Impossible Past',
     albumName: 'On The Impossible Past',
     quoteTextEn: 'We took rides in your American muscle car<br>I felt American, we shared our smokes<br>I held the wheel while you drank and drove<br>Our plans were miserable',
-    quoteTextRu: 'Мы катались на твоём маслкаре<br>Курили одну на двоих и я чувствовал себя Американцем<br>Придерживал руль, когда ты водил пьяным<br>Наши планы были ничтожными',
+    quoteTextRu: 'Мы катались на твоём маслкаре<br>Курили одну на двоих, я чувствовал себя Американцем<br>Придерживал руль, когда ты водил пьяным<br>Наши планы были ничтожными',
     story: `
     <p class="paragraph">Грег Барнетт говорит, что название песни и альбома означает <nobr>то, что вы сами</nobr> хотите. Фраза взята из Лолиты Набокова, его любимого писателя, и на русском звучит так: "Я опять рыдал, пьянея от невозможного прошлого"</p>
     <p class="paragraph">Объясняя настроение песни и альбома говорят о ностальгии, потерянной Америке, депрессивных городах <a class="link" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B0%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank">Ржавого&nbsp;пояса</a>,

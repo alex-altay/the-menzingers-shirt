@@ -33,7 +33,7 @@
 
 @media (min-width: 1850px) { // Crop right bottom angle on image for big screens
   .background {
-    clip-path: polygon(0 0, 98% 0, 90% 100%, 0 100%);
+    clip-path: polygon(0 0, 96% 0, 88% 100%, 0 100%);
   }
 }  
 @media (max-width: 1440px) and (min-width: 1025px) { // MacBook HiDPI
@@ -54,8 +54,6 @@
 // @media (max-width: 768px) and (orientation: portrait) { // Small background picture
 @media (max-width: 768px) { // Small background picture
   .background {
-    // height: 100vh;
-    // max-height: 768px;
     object-fit: none;
   }
 }
@@ -68,6 +66,12 @@
 @media (max-width: 768px) and (orientation: landscape) { // Small background picture
   .background {
     height: 100%;
-    // max-height: 768px;
+  }
+}
+@media (min-width: 1920px) and (min-height: 1080px) { // Huge screens
+  .background {
+    position: static;
+    outline: none;
+    outline-offset: initial;
   }
 }
