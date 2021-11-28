@@ -20,13 +20,13 @@ export default [
     name: 'drugs',
     songName: 'Freedom Bridge',
     albumName: 'On The Impossible Past',
-    quoteTextEn: 'Oxy\'s got her pupils pinned up, a junkie centerfold<br>With grey hairs and a death wish, she was 22 years old',
-    quoteTextRu: 'В свои 22 она как торчок с обложки,<br> с ссуженными оксикодоном зрачками, сединой и завещанием',
+    quoteTextEn: 'Oxy\'s got her pupils pinned up, a junkie centerfold<br>With grey hairs and a death wish,<br>She was 22 years old',
+    quoteTextRu: 'В свои 22 она как торчок с обложки,<br> с ссуженными оксикодоном зрачками,<br>сединой и завещанием',
     story: `
     <p class="paragraph">Песня о судьбах людей, жизнь которых заканчивается на Freedom Bridge — знаменитом месте для самоубийств в Пенсильвании. Поэтому мост ещё называют Suicide Bridge</p>
     <p class="paragraph">Каждый куплет об отдельном вымышленном собирательном образе: официантка из первого — образ сестры, ветеран войны в пустыне — брата, третий куплет о родителях, а четвертый — о нас самих</p>
     <p class="paragraph"><a class="link" href="https://esquire.ru/articles/84312-ubiycy-boli-istoriya-semi-sakler-kotoraya-podsadila-ameriku-na-opioidy-i-zarabotala-milliardy/" target="_blank">Оксикодон</a> 
-    не так часто используют в России, как другие наркотики, но для Филадельфии, где живет группа это <a class="link" href="https://www.youtube.com/watch?v=nOmuf8Z22Lw" target="_blank">болевая&nbsp;точка</a></p>`,
+    не так часто используют в России, как другие наркотики, <nobr>но для Филадельфии</nobr>, где живет группа это <a class="link" href="https://www.youtube.com/watch?v=nOmuf8Z22Lw" target="_blank">болевая&nbsp;точка</a></p>`,
     geniusLink: 'https://genius.com/The-menzingers-freedom-bridge-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/freedom-bridge/1485053153?i=1485053173',
     spotifyLink: 'https://open.spotify.com/track/70ja2SiEFMaykM6qyKP08z?si=9f14b2951fcb47b0',
@@ -39,7 +39,9 @@ export default [
     albumName: 'Rented World',
     quoteTextEn: 'Me and the rodent in the wall<br>have more in common after all',
     quoteTextRu: 'В конце концов, у нас с грызуном в стене<br>есть много общего',
-    story: '<p class="paragraph">О ненависти к настоящему себе, тоске по прошлому, боли от потери и&nbsp;превращении из чего-то прекрасного во что-то прячущееся и&nbsp;презираемое. Одна из моих любимых песен с грустным прекрасным текстом</p><p class="paragraph">I’ve tried running, I’ve tried hiding. I’ve tried everything but dying</p><p class="paragraph">Лучше не скажешь</p>',
+    story: `<p class="paragraph">О ненависти к настоящему себе, тоске по прошлому, боли от потери и&nbsp;превращении из чего-то прекрасного во что-то прячущееся и&nbsp;презираемое. 
+    Одна из моих любимых песен с грустным прекрасным текстом</p>
+    <p class="paragraph">I've tried running, I've tried hiding. I've tried everything but dying</p><p class="paragraph">Лучше не скажешь</p>`,
     geniusLink: 'https://genius.com/The-menzingers-rodent-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/rodent/1485059910?i=1485059914',
     spotifyLink: 'https://open.spotify.com/track/2itjFgb4YLCTDRAvpvT1Ak',
@@ -50,9 +52,9 @@ export default [
     name: 'tooth',
     songName: 'Bad Things',
     albumName: 'Rented World',
-    quoteTextEn: 'I’ve been dreaming that my teeth are falling out<br>I’m driving, there’s no steering wheel, no doors, I can’t see out',
-    quoteTextRu: 'Мне снится, что мои зубы выпали<br>Я веду машину без руля и дверей и не вижу выхода',
-    story: '<p class="paragraph">Песня о тревожности, повторяющихся пытающих снах, паранойе и&nbsp;желании самоубийства. Выпадающие во сне зубы — один из самых интерпретируемых кросс-культурных образов. О нём писали ещё <a class="link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6168631/" target="_blank">древние&nbsp;греки</a>, а Зигмунд Фрейд расшифровывал его как символ мастурбации, сексуального подавления и страха кастрации</p><p class="paragraph"><a class="link" href="https://en.wikipedia.org/wiki/Recurring_dream" target="_blank">Повторяющиеся&nbsp;сны</a> часто встречаются у людей с пост-травматическим синдромом и депрессией</p><p class="paragraph">В конце герой песни клянется, что в этот раз он застрелится</p>',
+    quoteTextEn: 'I\'ve been dreaming that my teeth are falling out<br>I\'m driving, there\'s no steering wheel,<br> no doors, I can\'t see out',
+    quoteTextRu: 'Мне снится, что мои зубы выпали<br>Я веду машину без руля<br>и дверей и не вижу выхода',
+    story: '<p class="paragraph">Песня о тревожности, повторяющихся пытающих снах, паранойе и&nbsp;желании самоубийства. Выпадающие во&nbsp;сне зубы — один из самых интерпретируемых кросс-культурных образов. О нём писали ещё <a class="link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6168631/" target="_blank">древние&nbsp;греки</a>, а Зигмунд Фрейд расшифровывал его как символ мастурбации, сексуального подавления и страха кастрации</p><p class="paragraph"><a class="link" href="https://en.wikipedia.org/wiki/Recurring_dream" target="_blank">Повторяющиеся&nbsp;сны</a> часто встречаются у людей с пост-травматическим синдромом и депрессией</p><p class="paragraph">В конце герой песни клянется, что в этот раз он&nbsp;застрелится</p>',
     geniusLink: 'https://genius.com/The-menzingers-bad-things-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/bad-things/1485059910?at=1000lHKX&i=1485059913',
     spotifyLink: 'https://open.spotify.com/track/3a4GRNSUtzBhUwrj2ggJnf',
@@ -69,8 +71,8 @@ export default [
     <p class="paragraph">Случай, когда одна песня рождается из другой — песни Дэна Зезески из&nbsp;группы <a class="link" href="https://open.spotify.com/artist/6i2E4F2ZjzA9hssYQOrlKI" target="_blank">Beako</a>, друга The Menzingers.
     Парни тусили на репетиционной точке в <a class="link link_internal" data-page="key">Sun Hotel</a>, Дэн играл на гитаре и пел как раз эту строчку. 
     Грег попросил разрешения использовать фразу для написания собственной версии, потому что "до сих пор это самая прекрасная песня, что&nbsp;я&nbsp;слышал".</p>
-    <p class="paragraph">Сама песня проста, она о потерянной любви и воспоминаниях. 
-    По&nbsp;мотивам альбома и любви Грега и вымышленной девушки Кейси один парень даже написал сценарий <a class="link" href="https://learninglovesongs.com/2017/01/30/13017/" target="_blank">"О&nbsp;невозможном&nbsp;будущем"</a></p>`,
+    <p class="paragraph">Сама песня проста, она о потерянной любви и&nbsp;воспоминаниях.
+    По&nbsp;мотивам альбома и любви Грега и&nbsp;вымышленной девушки Кейси один парень даже написал сценарий <a class="link" href="https://learninglovesongs.com/2017/01/30/13017/" target="_blank">"О&nbsp;невозможном&nbsp;будущем"</a></p>`,
     geniusLink: 'https://genius.com/The-menzingers-casey-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/casey/1485053153?i=1485053171',
     spotifyLink: 'https://open.spotify.com/track/42EJDbXh6ElErwq7OZUQZ9',
@@ -84,14 +86,14 @@ export default [
     quoteTextEn: 'If everyone needs a crutch<br>then I need a wheelchair',
     quoteTextRu: 'Если каждому нужен костыль,<br>то мне инвалидное кресло',
     story: `
-    <p class="paragraph">Песня с двойным дном. Тема зависимости объединяет куплеты. В случае автора, а это песня Грэга — к алкоголю. Само название обозначает одновременно 
-    и алкоголика в завязке, и передаёт мысль из припева, что жизнь сама по себе это смертельная болезнь в <a class="link" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F" target="_blank">стадии&nbsp;ремиссии</a></p>
+    <p class="paragraph">Песня с двойным дном. Тема зависимости объединяет куплеты. В случае автора, а это песня Грэга — к&nbsp;алкоголю. Само название обозначает одновременно
+    и&nbsp;алкоголика в завязке, и передаёт мысль из припева, что&nbsp;жизнь сама по себе это смертельная болезнь в&nbsp;<a class="link" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F" target="_blank">стадии&nbsp;ремиссии</a></p>
     <p class="paragraph">Аналогично с костылями. Это и одновременно идея, что алкоголь для автора это костыль, необходимый ему для борьбы 
-    с тревожностью и страхом перед будущим, и образ искалеченных жизнью людей, среди которых герой пострадал сильнее других и только "костыля" ему мало</p>`,
+    с тревожностью и&nbsp;страхом перед будущим, и&nbsp;образ искалеченных жизнью людей, среди которых герой пострадал сильнее других и только "костыля" ему мало</p>`,
     geniusLink: 'https://genius.com/The-menzingers-in-remission-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/in-remission/1485059910?i=1485059981',
     spotifyLink: 'https://open.spotify.com/track/28CTg8UEIYkiFtQKtiLQHi?si=b43e65b8fbc24839',
-    youtubeMusicLink: 'https://music.youtube.com/watch?v=iZscWmIizzw',
+    youtubeMusicLink: 'https://music.youtube.com/watch?v=iZscWmIizzw&nbsp;',
     yandexMusicLink: 'https://music.yandex.ru/album/1895261/track/17189401',
   },
   {
@@ -101,12 +103,13 @@ export default [
     quoteTextEn: 'In a cloud full of nicotine<br>In a teenage memory',
     quoteTextRu: 'В никотиновых облаках<br>В памяти подростка',
     story: `
-    <p class="paragraph">В песнях The Menzingers нет упоминаний спичек, но есть пара пожаров, бесконечные сигареты, дым и никотин. Так много, что в фан-сообществах в&nbsp;интернетах гуляет шутка, в которой друг группы закурил сигарету, Том и&nbsp;Грег озарённо переглянулись и написали об этом 32 песни</p>
+    <p class="paragraph">В песнях The Menzingers нет упоминаний спичек, но&nbsp;есть пара пожаров, бесконечные сигареты, дым и&nbsp;никотин. 
+    Так много, что в фан-сообществах в&nbsp;интернетах гуляет шутка, в которой друг группы закурил сигарету, Том и&nbsp;Грег озарённо переглянулись и&nbsp;написали об этом 32 песни</p>
     <p class="paragraph">Вариантом для этой картинки мог бы стать <a class="link" href="https://www.youtube.com/watch?v=hNcSusn2hmQ" target="_blank">кавер</a> 
-    на <a class="link" href="https://www.youtube.com/watch?v=eFTLKWw542g" target="_blank">песню</a> Билли Джоэла — We Didn't Start The Fire, 
-    но релиз альбома с каверами состоялся на месяц позже чем афишу, которую использовали для рисунка на футболке, нарисовали.
+    на&nbsp;<a class="link" href="https://www.youtube.com/watch?v=eFTLKWw542g" target="_blank">песню</a> Билли Джоэла — We Didn't Start The Fire,
+    но&nbsp;релиз альбома с каверами состоялся на месяц позже чем афишу, которую использовали для рисунка на&nbsp;футболке, нарисовали.
     Lookers вышла до этого концерта первым синглом с альбома After The Party. 
-    Песня о ностальгии и девчонках из Нью-Джерси, которые разбивают сердца. Строчка о них это отсылка к <a class="link" href="https://www.youtube.com/watch?v=j-ROB8kI_fw" target="_blank">песне</a> Тома Уэйтса</p>`,
+    Песня о ностальгии и&nbsp;девчонках из Нью-Джерси, которые разбивают сердца. Строчка о них это отсылка к&nbsp;<a class="link" href="https://www.youtube.com/watch?v=j-ROB8kI_fw" target="_blank">песне</a> Тома Уэйтса</p>`,
     geniusLink: 'https://genius.com/The-menzingers-lookers-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/lookers/1485064843?i=1485064846',
     spotifyLink: 'https://open.spotify.com/track/61cKoNyxgq4coMLGL2ii4A?si=1d2bba2bd78e4c6e',
@@ -120,9 +123,11 @@ export default [
     quoteTextEn: 'When I get home, I\'m not talking to anyone<br>When I get home, I\'m unplugging my telephone',
     quoteTextRu: 'Вернусь домой и не буду ни с кем говорить<br>Вернусь домой и отключу телефон',
     story: `
-    <p class="paragraph">Прямолинейная песня и музыкально, и в плане текста. Название Irish Goodbyes дословно переводится как ирландские прощания. Это&nbsp;то,&nbsp;что&nbsp;в&nbsp;русском языке называют "уйти по-английски" — покинуть тусич и&nbsp;не&nbsp;сказать никому ни слова. В песне побег происходит из-за социофобии героя, поющего как он свалит, выключит телефон и&nbsp;нахуярится в одиночку</p>
-    <p class="paragraph">Песня не входит ни в один альбом и вышла на сборнике групп с лейбла <a class="link" href="http://www.runforcoverrecords.com/" target="_blank">Run&nbsp;For&nbsp;Cover</a>.
-    Это независимый лейбл из Бостона, который выпускал релизы Modern Baseball, Citizen, Makthaverskan, Tigers Jaw, Basement и&nbsp;другие крутые группы</p>`,
+    <p class="paragraph">Прямолинейная песня и музыкально, и в плане текста. Название Irish Goodbyes дословно переводится как ирландские прощания. 
+    Это&nbsp;то,&nbsp;что&nbsp;в&nbsp;русском языке называют "уйти по-английски" — покинуть тусич и&nbsp;не&nbsp;сказать никому ни слова. 
+    В песне побег происходит из-за социофобии героя, поющего как он&nbsp;свалит, выключит телефон и&nbsp;нахуярится в одиночку</p>
+    <p class="paragraph">Песня не входит ни в один альбом и вышла на&nbsp;сборнике групп с лейбла <a class="link" href="http://www.runforcoverrecords.com/" target="_blank">Run&nbsp;For&nbsp;Cover</a>.
+    Это&nbsp;независимый лейбл из Бостона, который выпускал релизы Modern Baseball, Citizen, Makthaverskan, Tigers Jaw, Basement и&nbsp;другие крутые группы</p>`,
     geniusLink: 'https://genius.com/The-menzingers-irish-goodbyes-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/irish-goodbyes/1496923734?i=1496923742',
     spotifyLink: 'https://open.spotify.com/track/6CyaoIyPs6kCzeKawHGd3D?si=2cb58db89e614596',
@@ -138,7 +143,7 @@ export default [
     story: `
     <p class="paragraph">Том Мэй рассказывал, что срезанные волосы это метафора резких перемен в жизни и одновременно отсылка к <a class="link" href="https://www.youtube.com/watch?v=p62rfWxs6a8" target="_blank">песне</a> Регины Спектор
     о библейской истории Самсона, который потерял силу, после того как Далила его подстригла. Красные чернила и правки это отметки редактора, вычитывающего книгу или учителя, ставящего оценки</p>
-    <p class="paragraph">Вся песня это посвящение чрезмерно критичной девушке, где автор хотел бы чтобы его чувства к ней прошли</p>`,
+    <p class="paragraph">Вся песня это посвящение чрезмерно критичной девушке, где автор хотел&nbsp;бы, чтобы его чувства к ней прошли</p>`,
     geniusLink: 'https://genius.com/The-menzingers-burn-after-writing-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/burn-after-writing/1485053153?i=1485053160',
     spotifyLink: 'https://open.spotify.com/track/45x1BJkcJG2Lz2qxVjeUvX?si=78be98a2174d4239',
@@ -168,8 +173,10 @@ export default [
     quoteTextEn: 'I am the pain that beats through your temples<br>Every morning when you wake up<br>I am the boy with alcohol poisoning',
     quoteTextRu: 'Я пульсирующая боль в твоих висках<br>Каждое утро, когда ты просыпаешься<br>Я тот самый парень с похмельем',
     story: `
-    <p class="paragraph">В одном из интервью группа сказала, что много людей написало им, что выбрали эту песню на свою свадьбу и это одна из самых лестных вещей, которые музыкант может услышать</p>
-    <p class="paragraph">Песня на самом деле не об алкоголе, а о любви на всю жизнь. Она только начинается похмельным летом, где герой у бара дожидается пока закончат играть стрёмные группы и влюбляется в официантку. Они курят одни и те же сигареты, высекают свои имена в скале и доживают вместе до старости, чтобы понять, что счастье это всего лишь мгновение</p>
+    <p class="paragraph">В одном из интервью группа сказала, что много людей написало им, что выбрали эту песню на свою свадьбу и&nbsp;это одна из самых лестных вещей, которые музыкант может услышать</p>
+    <p class="paragraph">Песня на самом деле не об алкоголе, а о любви на всю жизнь. 
+    Она только начинается похмельным летом, где герой у бара дожидается пока закончат играть стрёмные группы и влюбляется в официантку. 
+    Они курят одни <nobr>и те же</nobr> сигареты, высекают свои имена в&nbsp;скале и доживают вместе до&nbsp;старости, чтобы понять, что счастье это всего лишь мгновение</p>
     <p class="paragraph">Название песни, ворота, о которых поётся в припевах, это <a class="link" href="https://www.google.ru/search?q=wedding+gates" target="_blank">свадебная&nbsp;арка</a></p>`,
     geniusLink: 'https://genius.com/The-menzingers-gates-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/gates/1485053153?i=1485053164',
@@ -181,14 +188,15 @@ export default [
     name: 'head',
     songName: 'Mexican Guitars',
     albumName: 'On The Impossible Past',
-    quoteTextEn: 'With bad tattoos of all the bands you loved in high school<br>The ones you said that I had to listen to all the time',
-    quoteTextRu: 'C кривыми татуировками групп, любимых тобой в школе<br>Тех, что всё время советовал мне послушать',
+    quoteTextEn: 'With bad tattoos of all the bands<br>you loved in high school<br>The ones you said that I had to listen to all the time',
+    quoteTextRu: 'C кривыми татуировками групп,<br>любимых тобой в школе<br>Тех, что всё время советовал мне послушать',
     story: `
-    <p class="paragraph">Голова пантеры это сюжет для традиционной татуировки, а сама песня о&nbsp;потере друга. Сотни каналов телевизора, на которых нечего смотреть, из&nbsp;первого куплета — метафора толпы людей рядом, ни один из которых его не заменит. </p>
-    <p class="paragraph">Другая игра со смыслом это название трека — "Мексиканские гитары", как память о недорогих инструментах, 
-    на которых герои играли вместе когда-то давно до известности. Название рифмуется со строчкой, где рассказчик спрашивает какая дорога привела бы его в Мексику? 
-    Это метафора смерти, вопрос — отсылка к Дину Мориарти, персонажу романа <a class="link" href="https://ru.wikipedia.org/wiki/%D0%92_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5" target="_blank">"В&nbsp;дороге"</a> Джека Керуака, впоследствии умершего там.
-    Дин и Сал, герои книги упоминаются и в <a class="link link_internal" data-page="matches">другой&nbsp;песне</a> с этой футболки. Запутанная история, да.</p>`,
+    <p class="paragraph">Голова пантеры это сюжет для традиционной татуировки, а сама песня о&nbsp;потере друга. 
+    Сотни тв-каналов, на которых нечего смотреть, из&nbsp;первого куплета — метафора толпы людей, ни один из которых его не заменит. </p>
+    <p class="paragraph">Другая игра со смыслом это название трека, память о&nbsp;недорогих инструментах,
+    на которых герои играли вместе когда-то давно до&nbsp;известности. Название рифмуется со строчкой, где рассказчик спрашивает какая дорога привела бы его в Мексику?
+    Это метафора смерти, отсылка к&nbsp;Дину Мориарти, персонажу романа <a class="link" href="https://ru.wikipedia.org/wiki/%D0%92_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5" target="_blank">"В&nbsp;дороге"</a> Джека Керуака, впоследствии умершего там.
+    Дин и Сал, герои книги упоминаются <nobr>и в <a class="link link_internal" data-page="matches">другой&nbsp;песне</a></nobr> с&nbsp;этой футболки. Запутанная история, да.</p>`,
     geniusLink: 'https://genius.com/The-menzingers-mexican-guitars-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/mexican-guitars/1485053153?i=1485053168',
     spotifyLink: 'https://open.spotify.com/track/3n9EHj6IoiwhiAjuD2vUBV?si=32766716fd684568',
@@ -239,7 +247,8 @@ export default [
     quoteTextEn: 'A brother and sister come to blows<br>Over a broken television',
     quoteTextRu: 'Брат и сестра подрались<br>из-за сломанного телевизора',
     story: `
-    <p class="paragraph">Том Мэй однажды сказал: "Когда мы записывали этот альбом, то постоянно держали в голове идею о том, чтобы сделать его размытым и двусмысленным до такой степени, чтобы слушатель взял из него то, что он сам хочет"</p>
+    <p class="paragraph">Том Мэй однажды сказал: "Когда мы записывали этот альбом, то постоянно держали в голове идею о том, 
+    чтобы сделать его размытым и&nbsp;двусмысленным до&nbsp;такой степени, чтобы слушатель взял из него <nobr>то, что он сам хочет"</nobr></p>
     <p class="paragraph">Так вот. Я понятия не имею о чём эта песня, сколько раз бы не читал текст</p>`,
     geniusLink: 'https://genius.com/The-menzingers-hearts-unknown-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/hearts-unknown/1485059910?i=1485059980',
@@ -252,10 +261,10 @@ export default [
     songName: 'On The Impossible Past',
     albumName: 'On The Impossible Past',
     quoteTextEn: 'We took rides in your American muscle car<br>I felt American, we shared our smokes<br>I held the wheel while you drank and drove<br>Our plans were miserable',
-    quoteTextRu: 'Мы катались на твоём маслкаре<br>Курили одну на двоих, я чувствовал себя Американцем<br>Придерживал руль, когда ты водил пьяным<br>Наши планы были ничтожными',
+    quoteTextRu: 'Мы катались на твоём маслкаре<br>Курили одну на двоих,<br>я чувствовал себя Американцем<br>Придерживал руль, когда ты водил пьяным<br>Наши планы были ничтожными',
     story: `
     <p class="paragraph">Грег Барнетт говорит, что название песни и альбома означает <nobr>то, что вы сами</nobr> хотите. Фраза взята из Лолиты Набокова, его любимого писателя, и на русском звучит так: "Я опять рыдал, пьянея от невозможного прошлого"</p>
-    <p class="paragraph">Объясняя настроение песни и альбома говорят о ностальгии, потерянной Америке, депрессивных городах <a class="link" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B0%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank">Ржавого&nbsp;пояса</a>,
+    <p class="paragraph">Объясняя настроение песни и альбома говорят о&nbsp;ностальгии, потерянной Америке, депрессивных городах <a class="link" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B0%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank">Ржавого&nbsp;пояса</a>,
     надеждах на счастливую жизнь, которые, как ты знаешь, никогда не сбудутся. Также как <a class="link" href="https://ru.wikipedia.org/wiki/Muscle_car" target="_blank">маслкары</a> — часть ржавеющего прошлого, которое уже никогда не повторится </p>`,
     geniusLink: 'https://genius.com/The-menzingers-on-the-impossible-past-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/on-the-impossible-past/1485053153?i=1485053169',
@@ -271,7 +280,7 @@ export default [
     quoteTextRu: 'Я крохотная муха<br>Мельтешащяя в зарослях твоих воспоминаний',
     story: `
     <p class="paragraph">О навязчивых мыслях, о переживании расставания. Думал, что плохое произойдёт не с тобой, а теперь всему пиздец</p>
-    <p class="paragraph">Грег Барнетт в интервью об этой песне описывал её как: "Если моя единственная любовь не делает меня счастливым, то что вообще может сделать?"</p>`,
+    <p class="paragraph">Грег Барнетт в интервью об этой песне описывал её&nbsp;как: "Если моя единственная любовь не делает меня счастливым, то что вообще может сделать?"</p>`,
     geniusLink: 'https://genius.com/The-menzingers-nothing-feels-good-anymore-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/nothing-feels-good-anymore/1485059910?i=1485059979',
     spotifyLink: 'https://open.spotify.com/track/2fOgRth56VCciZmzCDlofx?si=1e43a9f8dd604bd0',
@@ -285,12 +294,14 @@ export default [
     quoteTextEn: 'So we live our lives and we have our fun<br>While he wraps his lips around the gun',
     quoteTextRu: 'Мы живём и веселимся<br>Когда Ричард Кори готовится застрелиться',
     story: `
-    <p class="paragraph">Пример как группа берёт банальную идею — "деньги и&nbsp;статус не приносят счастья" и интересно интерпретирует.
-    Имя "Ричард Кори" взято из <a class="link" href="http://www.uspoetry.ru/poem/123" target="_blank">стихотворения</a> Эдвина Арлингтона Робинсона, написанного после <a class="link" href="https://en.wikipedia.org/wiki/Panic_of_1893" target="_blank">"Паники&nbsp;1893&nbsp;года"</a> — худшего экономического кризиса в истории США на тот момент.
-    Герой стиха — богатый, внешне благополучный человек на фоне завидующих и нуждающихся людей, в конце неожиданно застрелится</p>
+    <p class="paragraph">Группа берёт банальную идею — "деньги и&nbsp;статус не&nbsp;приносят счастья" и&nbsp;интересно интерпретирует.
+    Имя "Ричард Кори" взято из&nbsp;<a class="link" href="http://www.uspoetry.ru/poem/123" target="_blank">стихотворения</a> Эдвина Арлингтона Робинсона, 
+    написанного после <a class="link" href="https://en.wikipedia.org/wiki/Panic_of_1893" target="_blank">"Паники&nbsp;1893&nbsp;года"</a>
+     — худшего экономического кризиса в истории США на&nbsp;тот момент.
+    Герой стиха — богатый, внешне благополучный человек на&nbsp;фоне завидующих и&nbsp;нуждающихся людей, в&nbsp;конце неожиданно застрелится</p>
     <p class="paragraph">О Ричарде Кори пел Simon & Garfunkel, Пол Маккартни и многие другие. 
-    Ошибка в фамилии, Coury вместо Cory, сознательна и типична для группы, с названием из искаженного немецкого слова minnesänger — менестрели. 
-    Буква появилась потому что у ребят есть друг с фамилией Coury</p>`,
+    Ошибка в фамилии, Coury вместо Cory, сознательна и типична для группы, с названием из&nbsp;искаженного немецкого слова minnesänger — менестрели.
+    Буква появилась, потому что у ребят есть друг с фамилией Coury</p>`,
     geniusLink: 'https://genius.com/The-menzingers-richard-coury-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/richard-corry/259772764?i=259774955',
     spotifyLink: 'https://open.spotify.com/track/3F433lF9T2PHIP5ubWF759?si=a3d679443f5747b6',
