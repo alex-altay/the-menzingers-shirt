@@ -263,7 +263,7 @@ export default [
     quoteTextEn: 'We took rides in your American muscle car<br>I felt American, we shared our smokes<br>I held the wheel while you drank and drove<br>Our plans were miserable',
     quoteTextRu: 'Мы катались на твоём маслкаре<br>Курили одну на двоих,<br>я чувствовал себя Американцем<br>Придерживал руль, когда ты водил пьяным<br>Наши планы были ничтожными',
     story: `
-    <p class="paragraph">Грег Барнетт говорит, что название песни и альбома означает <nobr>то, что вы сами</nobr> хотите. Фраза взята из Лолиты Набокова, его любимого писателя, и на русском звучит так: "Я опять рыдал, пьянея от невозможного прошлого"</p>
+    <p class="paragraph">По словам Грега название песни и альбома означает <nobr>то, что вы сами</nobr> хотите. Фраза взята из Лолиты Набокова, его любимого писателя, и на русском звучит так: "Я опять рыдал, пьянея от невозможного прошлого"</p>
     <p class="paragraph">Объясняя настроение песни и альбома говорят о&nbsp;ностальгии, потерянной Америке, депрессивных городах <a class="link" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B0%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank">Ржавого&nbsp;пояса</a>,
     надеждах на счастливую жизнь, которые, как ты знаешь, никогда не сбудутся. Также как <a class="link" href="https://ru.wikipedia.org/wiki/Muscle_car" target="_blank">маслкары</a> — часть ржавеющего прошлого, которое уже никогда не повторится </p>`,
     geniusLink: 'https://genius.com/The-menzingers-on-the-impossible-past-lyrics',
