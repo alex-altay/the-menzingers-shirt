@@ -1,24 +1,8 @@
-# another
+# The Menzingers Shirt
 
-## Project setup
-```
-npm install
-```
+Сайт о том, до чего меня довёл панк-рок и любопытство.
+<br><br>
+Смысл создания был в том, чтобы попробовать вещи, которые не рекомендуется делать в продакшне, например, замену системных курсоров мыши кастомными. Всё, что изменяет цвет при наведении - интерактивное.
+<br><br>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Посмотреть, что получилось, можно [здесь](http://the-menzingers-shirt.ru).
