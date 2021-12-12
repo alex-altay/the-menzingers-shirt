@@ -33,7 +33,7 @@ export default {
         this.youtubeMusicLink = songStory.youtubeMusicLink;
         this.yandexMusicLink = songStory.yandexMusicLink;
       } else {
-        this.$router.push('/'); // TODO Замени на 404ую?
+        this.$router.push('/');
       }
     },
   },

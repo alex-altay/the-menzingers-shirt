@@ -26,7 +26,7 @@ export default [
     <p class="paragraph">Песня о судьбах людей, жизнь которых заканчивается на Freedom Bridge — знаменитом месте для самоубийств в Пенсильвании. Поэтому мост ещё называют Suicide Bridge.</p>
     <p class="paragraph">Каждый куплет об отдельном вымышленном собирательном образе: официантка из первого — образ сестры, ветеран войны в пустыне — брата, третий куплет о родителях, а четвертый — о нас самих.</p>
     <p class="paragraph"><a class="link" href="https://esquire.ru/articles/84312-ubiycy-boli-istoriya-semi-sakler-kotoraya-podsadila-ameriku-na-opioidy-i-zarabotala-milliardy/" target="_blank">Оксикодон</a> 
-    не так часто используют в России, как другие наркотики, <nobr>но для Филадельфии</nobr>, где живет группа это <a class="link" href="https://www.youtube.com/watch?v=nOmuf8Z22Lw" target="_blank">болевая&nbsp;точка</a>.</p>`,
+    не так часто используют в России, как другие наркотики, <span class="no-wrap">но для Филадельфии</span>, где живет группа это <a class="link" href="https://www.youtube.com/watch?v=nOmuf8Z22Lw" target="_blank">болевая&nbsp;точка</a>.</p>`,
     geniusLink: 'https://genius.com/The-menzingers-freedom-bridge-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/freedom-bridge/1485053153?i=1485053173',
     spotifyLink: 'https://open.spotify.com/track/70ja2SiEFMaykM6qyKP08z?si=9f14b2951fcb47b0',
@@ -178,11 +178,11 @@ export default [
     quoteTextEn: 'I am the pain that beats through your temples<br>Every morning when you wake up<br>I am the boy with alcohol poisoning',
     quoteTextRu: 'Я пульсирующая боль в твоих висках<br>Каждое утро, когда ты просыпаешься<br>Я тот самый парень с похмельем',
     story: `
-    <p class="paragraph">В одном из интервью группа сказала, что много людей написало им, что выбрали эту песню на свою свадьбу и&nbsp;это одна из самых лестных вещей, которые музыкант может услышать.</p>
-    <p class="paragraph">Песня на самом деле не об алкоголе, а о любви на всю жизнь. 
-    Она только начинается похмельным летом, где герой у бара дожидается пока закончат играть стрёмные группы и влюбляется в официантку. 
-    Они курят одни <nobr>и те же</nobr> сигареты, высекают свои имена в&nbsp;скале и доживают вместе до&nbsp;старости, чтобы понять, что счастье это всего лишь мгновение.</p>
-    <p class="paragraph">Название песни, ворота, о которых поётся в припевах, это <a class="link" href="https://www.google.ru/search?q=wedding+gates" target="_blank">свадебная&nbsp;арка</a>.</p>`,
+    <p class="paragraph">В одном из интервью группа сказала, что много людей написало им, что выбрали эту песню на&nbsp;свою свадьбу и&nbsp;это одна из самых лестных вещей, которые музыкант может услышать.</p>
+    <p class="paragraph">Песня на самом деле не об алкоголе, а о любви на&nbsp;всю жизнь.
+    Она только начинается похмельным летом, где герой у бара дожидается пока закончат играть стрёмные группы и влюбляется в&nbsp;официантку.
+    Они курят одни <span class="no-wrap">и те же сигареты</span>, высекают свои имена в&nbsp;скале и доживают вместе до&nbsp;старости, чтобы понять, что счастье это всего лишь мгновение.</p>
+    <p class="paragraph">Название песни, ворота, о которых поётся в&nbsp;припевах, это <a class="link" href="https://www.google.ru/search?q=wedding+gates" target="_blank">свадебная&nbsp;арка</a>.</p>`,
     geniusLink: 'https://genius.com/The-menzingers-gates-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/gates/1485053153?i=1485053164',
     spotifyLink: 'https://open.spotify.com/track/6lZadw4xVrq6bfYmPsNaUC?si=c50a1dfd79eb4b48',
@@ -197,11 +197,11 @@ export default [
     quoteTextRu: 'C кривыми татуировками групп,<br>любимых тобой в школе<br>Тех, что всё время советовал мне послушать',
     story: `
     <p class="paragraph">Голова пантеры это сюжет для традиционной татуировки, а сама песня о&nbsp;потере друга. 
-    Сотни тв-каналов, на которых нечего смотреть, из&nbsp;первого куплета — метафора толпы людей, ни один из которых его не заменит.</p>
+    Сотни тв-каналов, на которых нечего смотреть, из&nbsp;первого куплета — метафора толпы людей, ни&nbsp;один из&nbsp;которых его не&nbsp;заменит.</p>
     <p class="paragraph">Другая игра со смыслом это название трека, память о&nbsp;недорогих инструментах,
-    на которых герои играли вместе когда-то давно до&nbsp;известности. Название рифмуется со строчкой, где рассказчик спрашивает какая дорога привела бы его в Мексику?
+    на которых герои играли вместе когда-то давно до&nbsp;известности. Название рифмуется со строчкой, где рассказчик спрашивает какая дорога привела бы его в&nbsp;Мексику?
     Это метафора смерти, отсылка к&nbsp;Дину Мориарти, персонажу романа <a class="link" href="https://ru.wikipedia.org/wiki/%D0%92_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5" target="_blank">"В&nbsp;дороге"</a> Джека Керуака, впоследствии умершего там.
-    Дин и Сал, герои книги упоминаются <nobr>и в <a class="link link_internal" data-page="matches">другой&nbsp;песне</a></nobr> с&nbsp;этой футболки. Запутанная история, да.</p>`,
+    Дин и Сал, герои книги упоминаются <span class="no-wrap">и в <a class="link link_internal" data-page="matches">другой&nbsp;песне</a></span> с&nbsp;этой футболки. Запутанная история, да.</p>`,
     geniusLink: 'https://genius.com/The-menzingers-mexican-guitars-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/mexican-guitars/1485053153?i=1485053168',
     spotifyLink: 'https://open.spotify.com/track/3n9EHj6IoiwhiAjuD2vUBV?si=32766716fd684568',
@@ -254,7 +254,7 @@ export default [
     quoteTextRu: 'Брат и сестра подрались<br>из-за сломанного телевизора',
     story: `
     <p class="paragraph">Том Мэй однажды сказал: "Когда мы записывали этот альбом, то постоянно держали в голове идею о том, 
-    чтобы сделать его размытым и&nbsp;двусмысленным до&nbsp;такой степени, чтобы слушатель взял из него <nobr>то, что он сам хочет"</nobr>.</p>
+    чтобы сделать его размытым и&nbsp;двусмысленным до&nbsp;такой степени, чтобы слушатель взял из него <span class="no-wrap">то, что он сам хочет"</span>.</p>
     <p class="paragraph">Так вот. Я понятия не имею о чём эта песня, сколько раз бы не читал текст.</p>`,
     geniusLink: 'https://genius.com/The-menzingers-hearts-unknown-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/hearts-unknown/1485059910?i=1485059980',
@@ -269,9 +269,9 @@ export default [
     quoteTextEn: 'We took rides in your American muscle car<br>I felt American, we shared our smokes<br>I held the wheel while you drank and drove<br>Our plans were miserable',
     quoteTextRu: 'Мы катались на твоём маслкаре<br>Курили одну на двоих,<br>я чувствовал себя Американцем<br>Придерживал руль, когда ты водил пьяным<br>Наши планы были ничтожными',
     story: `
-    <p class="paragraph">По словам Грега название песни и альбома означает <nobr>то, что вы сами</nobr> хотите. Фраза взята из Лолиты Набокова, его любимого писателя, и на русском звучит так: "Я опять рыдал, пьянея от невозможного прошлого".</p>
+    <p class="paragraph">По словам Грега название песни и альбома означает <span class="no-wrap">то, что вы сами</span> хотите. Фраза взята из&nbsp;Лолиты Набокова, его любимого писателя, и&nbsp;на&nbsp;русском звучит так: "Я опять рыдал, пьянея от&nbsp;невозможного прошлого".</p>
     <p class="paragraph">Объясняя настроение песни и альбома говорят о&nbsp;ностальгии, потерянной Америке, депрессивных городах <a class="link" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B0%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank">Ржавого&nbsp;пояса</a>,
-    надеждах на счастливую жизнь, которые, как ты знаешь, никогда не сбудутся. Также как <a class="link" href="https://ru.wikipedia.org/wiki/Muscle_car" target="_blank">маслкары</a> — часть ржавеющего прошлого, которое уже никогда не повторится.</p>`,
+    надеждах на счастливую жизнь, которые, как ты знаешь, никогда не&nbsp;сбудутся. Также как <a class="link" href="https://ru.wikipedia.org/wiki/Muscle_car" target="_blank">маслкары</a> — часть ржавеющего прошлого, которое уже никогда не&nbsp;повторится.</p>`,
     geniusLink: 'https://genius.com/The-menzingers-on-the-impossible-past-lyrics',
     appleMusicLink: 'https://music.apple.com/ru/album/on-the-impossible-past/1485053153?i=1485053169',
     spotifyLink: 'https://open.spotify.com/track/3HVg2xvwaMBR2oJOHRkX0X?si=c931cea9627a403f',

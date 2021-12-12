@@ -8,8 +8,8 @@
         не&nbsp;имею "что хотел сказать автор", а интерпретация это просто моё мнение.</p>
       <p class="paragraph paragraph_long-margin">Картинки с&nbsp;футболки нарисовал
         преступно талантливый иллюстратор Craig&nbsp;Horky, вот его
-        <a class="link" href="https://www.craighorky.com/" target="_blank">сайт</a> <nobr>и
-        <a class="link" href="https://www.instagram.com/craighorky/" target="_blank">инстаграм</a></nobr>.
+        <a class="link" href="https://www.craighorky.com/" target="_blank">сайт</a>
+        <span class="no-wrap"> и <a class="link" href="https://www.instagram.com/craighorky/" target="_blank">инстаграм</a></span>.
         Там куча другого-всякого, активно рекомендую.</p>
       <p class="paragraph paragraph_long-margin"><span v-if="isSmallScreen">Этот сайт работает на
         смартфонах и планшетах, но&nbsp;лучше смотреть его с&nbsp;экрана компьютера. </span>
